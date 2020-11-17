@@ -1,5 +1,7 @@
 package Tree;
 
+import common.TreeNode;
+
 /**
  * 翻转一棵二叉树。
  *
